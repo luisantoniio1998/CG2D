@@ -1,5 +1,3 @@
 # CG2D
-Jogo para Computacao Grafica com JAVA2D
 
-Jogo desenvolvido em Eclipse IDE com java, usando livraria de JAVA2D. 
-Trabalho desenvolvido para avaliação na UC de Computação Gr
+Game developed for Computer Graphics Course Evaluation using Java and Java2D API with the help of Eclipse IDE.
