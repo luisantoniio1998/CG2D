@@ -1,27 +1,9 @@
 # CG2D
 
-Game developed for Computer Graphics Course Evaluation using Java and Java2D API.
+My Java2D game from the Computer Graphics course. The source covers player input, enemy behaviour, collisions, and the game loop.
 
-## Technologies
-- Java
-- Java2D API
-- Eclipse IDE
+## Open the project
 
-## Features
-- 2D graphics rendering
-- Game physics
-- Sprite animation
-- User input handling
-- Collision detection
+Import it into Eclipse as an existing Java project, then run `src/jogo/Jogo.java`.
 
-## Setup
-1. Install Java
-2. Clone repository
-3. Open in Eclipse
-4. Run Main.java
-
-## License
-MIT
-
-## Author
-Luís Barros
+The source is under `src/jogo/`; `bin/` contains compiled classes from the original project.
